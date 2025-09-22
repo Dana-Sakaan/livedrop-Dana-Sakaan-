@@ -1,0 +1,3 @@
+## AI Touchpoints
+
+We've identified two high-impact AI implementations that balance immediate business value with technical feasibility. The detailed analysis in our [AI Capability Map](./ai-first/ai-capability-map.md) outlines our selected touchpoints: an intelligent search typeahead system and an automated support assistant. These focus on improving key metrics like conversion rates and support efficiency while maintaining appropriate latency and cost targets.

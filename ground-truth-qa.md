@@ -118,4 +118,5 @@
 **Expected retrieval context:** Document 11: Customer Support Procedures + Document 5: Order Tracking and Delivery
 **Authoritative answer:** International orders can use the same 24/7 support channels with multilingual support in 12 languages. Specific international support includes customs clearance assistance and import fee clarification beyond standard order tracking.
 **Required keywords in LLM response:** ["24/7 support", "multilingual", "customs clearance", "import fees", "international tracking"]
+
 **Forbidden content:** ["domestic only", "single language", "no customs help"]

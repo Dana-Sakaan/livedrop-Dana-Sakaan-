@@ -1,4 +1,4 @@
-# RAG System Evaluation
+# RAG System Evaluation. 
 
 ## Retrieval Quality Tests (10 tests)
 | Test ID | Question | Expected Documents | Pass Criteria |
@@ -41,3 +41,4 @@
 | E03 | Multi-document required | Synthesis from multiple docs |
 | E04 | Forbidden term detected | Exclude forbidden info |
 | E05 | No context retrieved | Refusal with explanation |
+

@@ -129,4 +129,5 @@ Shoplite offers various promotional codes including percentage discounts (10-50%
 
 Automatic discounts include first-order welcome discounts (15% off), birthday discounts (20% off), and loyalty rewards. Seasonal sales occur during major holidays with sitewide discounts up to 70% off.
 
+
 Stacking rules: Maximum of two codes per order, cannot combine with certain seller promotions. Code expiration dates range from 24 hours to indefinite for loyalty discounts. Seller-created codes have usage limits and minimum purchase requirements.
